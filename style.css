@@ -1,0 +1,88 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.Header {
+    background-color: black;
+    height: 77px;
+}
+
+.logo {
+    height: 33%;
+    width: 40%;
+}
+
+.logo h1 {
+    color: cornsilk;
+    text-align: center;
+    line-height: 74px;
+}
+
+.menubar {
+    float: right;
+    width: 40%;
+}
+
+.menubar a {
+    text-decoration: none;
+    color: cornsilk;
+    line-height: 26px;
+    padding: 12px;
+}
+
+img {
+    border-radius: 110px;
+    margin-top: 145px;
+    margin-left: 106px;
+    text-align: center;
+}
+
+.content {
+    margin-left: 121px;
+    margin-top: 104px;
+}
+
+.footer {
+    background-color: brown;
+    text-align: center;
+    height: 120px;
+    line-height: 30%;
+    color: blanchedalmond;
+}
+
+table {
+    width: 100%;
+}
+
+.fcontent {
+    line-height: 31px;
+    color: burlywood;
+}
+
+.far {
+    font-weight: 400;
+    color: aliceblue;
+}
+
+span li a {
+    color: aliceblue;
+}
+
+.imgpor {
+    margin-bottom: 85px;
+    margin-top: 100px;
+}
+
+.imgpor a {
+    text-decoration: none;
+    color: black;
+}
+
+.menubar a:hover {
+    color: greenyellow
+}
+
+.logo :hover {
+    color: chartreuse;
+}
