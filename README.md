@@ -1,4 +1,4 @@
 # geekproject
 
 web page 
-https://rahulp-web.github.io/geekproject/
+https://rahulp-web.github.io/geekproject/project.html
